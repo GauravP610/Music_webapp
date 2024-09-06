@@ -37,7 +37,7 @@ To run the application locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/V4MF1R3/musicly.git
+   https://github.com/GauravP610/Music_webapp
    ```
 
 2. Install dependencies:
