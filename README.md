@@ -30,28 +30,6 @@ Check out the live demo: [Musicly Live](https://vamfire-musicly.netlify.app/)
 - Spotify Developer API
 - Netlify (for hosting)
 
-## Development
-
-To run the application locally, follow these steps:
-
-1. Clone the repository:
-
-   ```bash
-   https://github.com/GauravP610/Music_webapp
-   ```
-
-2. Install dependencies:
-
-   ```bash
-   cd musicly
-   npm install
-   ```
-
-3. Run the application:
-
-   ```bash
-   npm start
-   ```
 
 ## Author
 
