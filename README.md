@@ -55,6 +55,6 @@ To run the application locally, follow these steps:
 
 ## Author
 
-- Vaibhav Pant
+- Gaurav Pathak
 
 Feel free to explore, enjoy the music, and contribute to making Musicly even better! 🎶🚀
