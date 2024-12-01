@@ -1,0 +1,39 @@
+.sidebar-container{
+    width: 100px;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.profile-img{
+    width: 50px;
+    height: 50px;
+    border-radius: 20px;
+    margin-top: 10%;
+}
+
+.profile-text {
+    color: white;
+    font-size: 1.0em;
+    font-weight: bold;
+}
+
+.profile-text:hover {
+    filter: brightness(120%);
+}
+
+.logo-img {
+    width: 30px;
+    height: 30px;
+    margin-left: 0px;
+    vertical-align: middle;
+}
+
+.profile-container {
+    margin-top: 30px;
+    display: inline-flex;
+    align-items: center;
+    cursor: default;
+}
